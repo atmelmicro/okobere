@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\okobere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\displaycard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\displaycard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\displaycard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\displaycard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|c:\\users\\david\\source\\repos\\okobere\\okobere\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DAED3AB-4ECD-46A0-A845-DD232B0954E8}|okobere\\okobere.csproj|solutionrelative:okobere\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\DisplayCard.xaml.cs",
+              "RelativeDocumentMoniker": "okobere\\DisplayCard.xaml.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\DisplayCard.xaml.cs",
+              "RelativeToolTip": "okobere\\DisplayCard.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:21:38.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Game.cs",
+              "RelativeDocumentMoniker": "okobere\\Game.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Game.cs",
+              "RelativeToolTip": "okobere\\Game.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAKIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:52:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "okobere\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\MainWindow.xaml",
+              "RelativeToolTip": "okobere\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T09:13:47.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Deck.cs",
+              "RelativeDocumentMoniker": "okobere\\Deck.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Deck.cs",
+              "RelativeToolTip": "okobere\\Deck.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:47:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Card.cs",
+              "RelativeDocumentMoniker": "okobere\\Card.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\Card.cs",
+              "RelativeToolTip": "okobere\\Card.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwEEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:39:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "okobere\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\MainWindow.xaml.cs",
+              "RelativeToolTip": "okobere\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:35:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayCard.xaml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\DisplayCard.xaml",
+              "RelativeDocumentMoniker": "okobere\\DisplayCard.xaml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\okobere\\okobere\\DisplayCard.xaml",
+              "RelativeToolTip": "okobere\\DisplayCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T07:05:58.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
